@@ -1,20 +1,23 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package bogarrizzicaravello; //Package
 
-/**
- *
- * @author 4ib
- */
+
 public class Main { 
 
-    /**
-     * @param args the command line arguments
-     */
+    
+    
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        int data = 0;
+        int oraInizio = 0;
+        
+        Pista[] pisteDisponibili= new Pista[5];
+        Atleta[] atleti = new Atleta[5];
+        
+        System.out.println("La gara del"+data+" inizierà alle ore"+oraInizio);
+        System.out.println("Le piste disponibili sono le:"+pisteDisponibili+" e l’elenco dei numeri di pista disponibili");
+        System.out.println("Gli atleti che gareggeranno sono:"+atleti+" e l’elenco dei nomi, cognomi e specialità degli atleti in gara");
+
     }
     
 }
