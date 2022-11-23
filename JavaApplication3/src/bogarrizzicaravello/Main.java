@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package bogarrizzicaravello;
+package bogarrizzicaravello; //Package
 
 /**
  *
  * @author 4ib
  */
-public class Main {
+public class Main { 
 
     /**
      * @param args the command line arguments
