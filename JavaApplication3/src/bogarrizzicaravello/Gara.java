@@ -11,8 +11,8 @@ package bogarrizzicaravello;
 public class Gara {
     private int data;
     private int oraInizio;
-    Pista pisteDisponibili[]= new Pista[];
-    Atleta atleti[] = new Atleta[];
+    Pista[] pisteDisponibili= new Pista[5];
+    Atleta[] atleti = new Atleta[5];
 
     public Gara() {
     }
